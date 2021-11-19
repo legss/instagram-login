@@ -27,7 +27,7 @@ Este projeto é resultado do BootCamp HTML Web Developer, disponibilizado no sit
 
 ### Live Site
 
-Caso quiser ver como ficou o mini-projeto, eu postei [aqui]()
+Caso quiser ver como ficou o mini-projeto, eu postei [aqui](https://legss.github.io/instagram-login/)
 
 ## Processo de criação
 
